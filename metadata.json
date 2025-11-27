@@ -1,0 +1,8 @@
+{
+  "name": "Sony A6000 Pro Monitor",
+  "description": "Professional monitor utility for Sony A6000 cameras, featuring external audio monitoring, live view simulation, and exposure tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
